@@ -20,7 +20,7 @@ class MainKtTest {
             amount = amount
         )
 
-        assertEquals(100, result)
+        assertEquals(0, result)
     }
 
     @Test
